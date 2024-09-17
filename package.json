@@ -1,0 +1,20 @@
+{
+  "name": "contacts-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  
+  "scripts": {
+
+    "type": "module",
+    "start": "nodemon app.js",
+
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liam Harvey",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
